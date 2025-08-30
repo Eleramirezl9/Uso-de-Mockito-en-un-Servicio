@@ -4,7 +4,7 @@
 
 Proyecto educativo que demuestra los conceptos fundamentales de **JUnit 5** y **Mockito** para testing unitario en Java. Incluye ejemplos prácticos con clases simples (Calculadora) y testing con dependencias usando mocks (UserService).
 
-## 🏗️ Estructura del Proyecto
+## Estructura del Proyecto
 
 ```
 junit-mockito-ejercicio/
