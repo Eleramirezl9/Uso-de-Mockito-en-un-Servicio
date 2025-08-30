@@ -1,8 +1,8 @@
 # Proyecto JUnit y Mockito - Ejercicio Práctico
 
-## 📋 Descripción
+## Descripción
 
-Proyecto educativo que demuestra los conceptos fundamentales de **JUnit 5** y **Mockito** para testing unitario en Java. Incluye ejemplos prácticos con clases simples (Calculadora) y testing con dependencias usando mocks (UserService).
+Proyecto que demuestra las pruebas tes con **JUnit 5** y **Mockito** para testing unitario en Java. Incluye ejemplos prácticos con clases simples (Calculadora) y testing con dependencias usando mocks (UserService).
 
 ## Estructura del Proyecto
 
@@ -20,7 +20,7 @@ junit-mockito-ejercicio/
 └── README.md                        # Este archivo
 ```
 
-## 📚 Clases Principales
+## Clases Principales
 
 ### Calculadora.java
 Operaciones matemáticas básicas para demostrar JUnit:
@@ -121,4 +121,4 @@ Para generar las evidencias requeridas, ejecute:
 
 ---
 
-**Proyecto educativo para aprender JUnit 5 y Mockito**
+**Proyecto para JUnit 5 y Mockito**
